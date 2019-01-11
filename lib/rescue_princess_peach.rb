@@ -1,8 +1,9 @@
 
 
-status = "rescued"
+
 
 def rescue_princess_peach(status)
+  status = "rescued"
   return "Hooray! Mario has #{status} Princess Peach."
 end
 
