@@ -4,7 +4,7 @@
 
 def rescue_princess_peach(status)
   status = "rescued"
-  return "Hooray! Mario has #{status} Princess Peach."
+ puts status
 end
 
 ## Comment the below back in to see method scope in action!
