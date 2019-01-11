@@ -2,7 +2,7 @@
 
 
 
-def rescue_princess_peach(status)
+def rescue_princess_peach
   status = "rescued"
  puts status
 end
